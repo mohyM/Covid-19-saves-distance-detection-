@@ -14,7 +14,7 @@ Deploying it on current surveillance systems and drones used by police to monito
   ## It took me time and effort to code it.
   ## I would really appreciate if you give it a star. :star:
   ## ASK FOR MY PERMISSION via email Ahmed mohy (a.mohy881@gmail.com) Ahmed omar(ahmedomar.bfci@gmail.com) before publicizing any part of code or output generated from it. Read Licence to avoid problems
-  ## Supervised by Prof.: Hala Zayed (hala.zayed@fci.bu.edu.eg) &&  Dr.: Mostafa AbdSalam                                                      
+  ## Supervised by Prof.: Hala Zayed (hala.zayed@fci.bu.edu.eg) &&  Dr.: Mostafa AbdSalam (mustafa.abdo@ymail.com)                                                  
  
 
 
